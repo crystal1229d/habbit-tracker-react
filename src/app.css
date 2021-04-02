@@ -19,6 +19,10 @@ nav {
   margin-right: 0.5em;
 }
 
+.add-form {
+  margin: 1rem;
+}
+
 .navbar-count {
   display: inline-block;
   text-align: center;
@@ -85,4 +89,12 @@ nav {
 .habit-delete {
   color: 2rem;
   color: darkred;
+}
+
+.habit-reset {
+  font-size: 1.5rem;
+  padding: 0.2em 1em;
+  background-color: green;
+  color: white;
+  margin-left: 1rem;
 }

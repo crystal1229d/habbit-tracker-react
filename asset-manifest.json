@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/habbit-tracker-react/static/css/main.9ce40c15.chunk.css",
+    "main.js": "/habbit-tracker-react/static/js/main.a4a57850.chunk.js",
+    "main.js.map": "/habbit-tracker-react/static/js/main.a4a57850.chunk.js.map",
+    "runtime-main.js": "/habbit-tracker-react/static/js/runtime-main.dd63399e.js",
+    "runtime-main.js.map": "/habbit-tracker-react/static/js/runtime-main.dd63399e.js.map",
+    "static/js/2.fbc4a320.chunk.js": "/habbit-tracker-react/static/js/2.fbc4a320.chunk.js",
+    "static/js/2.fbc4a320.chunk.js.map": "/habbit-tracker-react/static/js/2.fbc4a320.chunk.js.map",
+    "index.html": "/habbit-tracker-react/index.html",
+    "static/css/main.9ce40c15.chunk.css.map": "/habbit-tracker-react/static/css/main.9ce40c15.chunk.css.map",
+    "static/js/2.fbc4a320.chunk.js.LICENSE.txt": "/habbit-tracker-react/static/js/2.fbc4a320.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd63399e.js",
+    "static/js/2.fbc4a320.chunk.js",
+    "static/css/main.9ce40c15.chunk.css",
+    "static/js/main.a4a57850.chunk.js"
+  ]
+}
